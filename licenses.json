@@ -1,0 +1,9 @@
+{
+  "TRIAL-1DAY-001": {
+    "type": "trial",
+    "start": "2025-01-01"
+  },
+  "LIC-LIFE-MD_SITH": {
+    "type": "lifetime"
+  }
+}
